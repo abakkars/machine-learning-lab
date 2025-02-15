@@ -1,4 +1,9 @@
 # House Price Prediction
+### Course Instructor
+### Md. Mynoddin <br>
+Assistant Professor <br>
+Dept of CSE, <br>
+RMSTU <br> <br>
 The Ames Housing [dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) is taken from kaggle competition.
 
 The aim of the project is to predict house price for houses in Boston Housing Dataset.
